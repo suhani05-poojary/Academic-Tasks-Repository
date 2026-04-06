@@ -116,6 +116,7 @@ A report analyzing the performance of an AI-based sales chatbot.
 ---
 ## 📂 Repository Structure
 
+```
 Academic-Tasks-Repository/
 │
 ├── Task1_Intelligence_Theories.pdf
@@ -125,8 +126,7 @@ Academic-Tasks-Repository/
 ├── Task5_Chatbot_Analysis.pdf
 │
 └── README.md
----
-
+```
 ## 🎯 Overall Learning
 
 Through these tasks, I gained:
