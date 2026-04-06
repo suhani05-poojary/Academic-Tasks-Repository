@@ -114,10 +114,17 @@ A report analyzing the performance of an AI-based sales chatbot.
 > ⚠️ Note: This is an analytical report and not a developed chatbot system.
 
 ---
-
 ## 📂 Repository Structure
-Academic-Tasks-Repository/ │ ├── Task1_Intelligence_Theories.pdf ├── Task2_Data_Inventory.pdf ├── Task3_Bayes_Theorem.pdf ├── Task4_ANN_Flowchart.docx ├── Task5_Chatbot_Analysis.docx │ └── README.md
 
+Academic-Tasks-Repository/
+│
+├── Task1_Intelligence_Theories.pdf
+├── Task2_Data_Inventory.pdf
+├── Task3_Bayes_Theorem.pdf
+├── Task4_ANN_Flowchart.pdf
+├── Task5_Chatbot_Analysis.pdf
+│
+└── README.md
 ---
 
 ## 🎯 Overall Learning
